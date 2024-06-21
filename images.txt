@@ -1,1 +1,1 @@
---platform=linux/arm64 rocketmq-dashboard
+abcdelf/rocketmq-dashboard
