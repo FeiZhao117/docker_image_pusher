@@ -1,1 +1,1 @@
-mozhou001/rocketmq-dashboard
+apache/rocketmq-operator
