@@ -1,1 +1,1 @@
-apache/rocketmq-operator
+apache/seata-server:2.0.0
