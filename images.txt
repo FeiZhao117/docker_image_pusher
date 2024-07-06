@@ -1,1 +1,1 @@
-linux/arm64/apache/seata-server:2.1.0
+apache/linux/arm64/seata-server:2.1.0
