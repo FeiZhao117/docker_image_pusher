@@ -1,1 +1,1 @@
-apache/linux/arm64/seata-server:2.1.0
+apache/linux/arm64/seata-server:2.1.0:sha256:fec7dd9888de168060af5ed301189f4e460c6195dcc540fd8b3f035d2ab41f0d
